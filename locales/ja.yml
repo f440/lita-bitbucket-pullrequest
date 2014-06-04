@@ -1,0 +1,11 @@
+ja:
+  lita:
+    handlers:
+      bitbucket_pullrequest:
+        pullrequest_comment_created: "%{name} がコメントを追加しました %{url}"
+        pullrequest_comment_deleted: "%{name} がコメントを削除しました %{url}"
+        pullrequest_comment_updated: "%{name} がコメントを変更しました %{url}"
+        pullrequest_created:  "%{name} がプルリクエストを作成しました: %{title} %{url}"
+        pullrequest_merged: "%{name} がプルリクエストをマージしました: %{title} %{url}"
+        pullrequest_declined: "%{name} がプルリクエストをとりさげました: %{title} %{url}"
+        pullrequest_updated: "%{name} がプルリクエストを変更しました: %{title} %{url}"

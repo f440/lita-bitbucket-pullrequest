@@ -1,0 +1,11 @@
+en:
+  lita:
+    handlers:
+      bitbucket_pullrequest:
+        pullrequest_comment_created: "%{name} commented %{url}"
+        pullrequest_comment_deleted: "%{name} deleted a comment %{url}"
+        pullrequest_comment_updated: "%{name} changed a comment %{url}"
+        pullrequest_created:  "%{name} created a pull request : %{title} %{url}"
+        pullrequest_merged: "%{name} the a pull request : %{title} %{url}"
+        pullrequest_declined: "%{name} declined a pull request : %{title} %{url}"
+        pullrequest_updated: "%{name} updated a pull request: %{title} %{url}"

@@ -1,0 +1,107 @@
+{
+  "pullrequest_created": {
+    "closed_by": null,
+    "merge_commit": null,
+    "updated_on": "2014-06-04T02:53:52.373507+00:00",
+    "participants": [],
+    "created_on": "2014-06-04T02:53:52.350615+00:00",
+    "author": {
+      "links": {
+        "avatar": {
+          "href": "https://bitbucket-assetroot.s3.amazonaws.com/c/photos/2013/Jul/19/f440-avatar-2607955360-3_avatar.png"
+        },
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/users/f440"
+        }
+      },
+      "display_name": "f440",
+      "username": "f440"
+    },
+    "reason": "",
+    "source": {
+      "repository": {
+        "name": "sandbox",
+        "links": {
+          "avatar": {
+            "href": "https://d3oaxc4q5k2d6q.cloudfront.net/m/4f5af239a3af/img/language-avatars/ruby_16.png"
+          },
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/repositories/f440/sandbox"
+          }
+        },
+        "full_name": "f440/sandbox"
+      },
+      "branch": {
+        "name": "foo"
+      },
+      "commit": {
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/repositories/f440/sandbox/commit/070f8153f55f"
+          }
+        },
+        "hash": "070f8153f55f"
+      }
+    },
+    "description": "",
+    "links": {
+      "approve": {
+        "href": "https://api.bitbucket.org/2.0/repositories/f440/sandbox/pullrequests/3/approve"
+      },
+      "decline": {
+        "href": "https://api.bitbucket.org/2.0/repositories/f440/sandbox/pullrequests/3/decline"
+      },
+      "commits": {
+        "href": "https://api.bitbucket.org/2.0/repositories/f440/sandbox/pullrequests/3/commits"
+      },
+      "self": {
+        "href": "https://api.bitbucket.org/2.0/repositories/f440/sandbox/pullrequests/3"
+      },
+      "comments": {
+        "href": "https://api.bitbucket.org/2.0/repositories/f440/sandbox/pullrequests/3/comments"
+      },
+      "merge": {
+        "href": "https://api.bitbucket.org/2.0/repositories/f440/sandbox/pullrequests/3/merge"
+      },
+      "html": {
+        "href": "https://api.bitbucket.org/f440/sandbox/pull-request/3"
+      },
+      "activity": {
+        "href": "https://api.bitbucket.org/2.0/repositories/f440/sandbox/pullrequests/3/activity"
+      },
+      "diff": {
+        "href": "https://api.bitbucket.org/2.0/repositories/f440/sandbox/pullrequests/3/diff"
+      }
+    },
+    "title": "asdf",
+    "close_source_branch": true,
+    "reviewers": [],
+    "destination": {
+      "repository": {
+        "name": "sandbox",
+        "links": {
+          "avatar": {
+            "href": "https://d3oaxc4q5k2d6q.cloudfront.net/m/4f5af239a3af/img/language-avatars/ruby_16.png"
+          },
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/repositories/f440/sandbox"
+          }
+        },
+        "full_name": "f440/sandbox"
+      },
+      "branch": {
+        "name": "master"
+      },
+      "commit": {
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/repositories/f440/sandbox/commit/232aab073088"
+          }
+        },
+        "hash": "232aab073088"
+      }
+    },
+    "state": "OPEN",
+    "id": 3
+  }
+}

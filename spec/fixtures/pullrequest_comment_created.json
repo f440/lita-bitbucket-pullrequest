@@ -1,0 +1,32 @@
+{
+  "pullrequest_comment_created": {
+    "id": 2049816,
+    "updated_on": "2014-06-04T14:34:02.756635+00:00",
+    "user": {
+      "links": {
+        "avatar": {
+          "href": "https://bitbucket-assetroot.s3.amazonaws.com/c/photos/2013/Jul/19/f440-avatar-2607955360-3_avatar.png"
+        },
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/users/f440"
+        }
+      },
+      "display_name": "f440",
+      "username": "f440"
+    },
+    "created_on": "2014-06-04T14:34:02.754427+00:00",
+    "content": {
+      "html": "<p>efsf</p>",
+      "markup": "markdown",
+      "raw": "efsf"
+    },
+    "links": {
+      "html": {
+        "href": "https://api.bitbucket.org/f440/sandbox/pull-request/5/_/diff#comment-2049816"
+      },
+      "self": {
+        "href": "https://api.bitbucket.org/2.0/repositories/f440/sandbox/pullrequests/5/comments/2049816"
+      }
+    }
+  }
+}
